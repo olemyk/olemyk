@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**olemyk/olemyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Prometheus BlackBox Node Exporter written in GI for Spectrum Virtualize.
+- 🌱 I’m currently learning: Openshift and GO
+- 👯 I’m looking to collaborate on: Spectrum Virtualize Node Exporter
+- 🤔 I’m looking for help with: Spectrum Virtualize Node Exporter
+- 💬 Ask me about: anything IBM Spectrum x
+- 📫 How to reach me: Twitter og GitHub issue.
+
+
+[Check out my blog](https://medium.com/possimpible).
+
+---
+
+### Cool open-source projects 😎
+
+* [spectrum_virtualize_exporter](https://github.com/olemyk/spectrum_virtualize_exporter) Prometheus exporter for IBM Spectrum Virtualize
+---
+
+<p align='center'>
+<a href="https://twitter.com/OleMyklebust"><img height="30" src="https://raw.githubusercontent.com/worksofliam/worksofliam/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/olemyk"><img height="30" src="https://raw.githubusercontent.com/worksofliam/worksofliam/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/olemyklebust/"><img height="30" src="https://raw.githubusercontent.com/worksofliam/worksofliam/master/icon/linkedin.png?raw=true"></a>
+</p>
