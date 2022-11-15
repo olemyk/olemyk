@@ -2,12 +2,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Prometheus BlackBox Node Exporter written in GI for Spectrum Virtualize.
-- 🌱 I’m currently learning: Openshift and GO
+- 🔭 I’m currently working on: Prometheus BlackBox Node Exporter written in Go for Spectrum Virtualize.
+- 🌱 I’m currently learning: OpenShift and Go
 - 👯 I’m looking to collaborate on: Spectrum Virtualize Node Exporter
 - 🤔 I’m looking for help with: Spectrum Virtualize Node Exporter
 - 💬 Ask me about: anything IBM Spectrum x
-- 📫 How to reach me: Twitter og GitHub issue.
+- 📫 How to reach me: Twitter or GitHub issue.
 
 
 [Check out my blog](https://medium.com/possimpible).
