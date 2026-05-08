@@ -2,11 +2,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Prometheus BlackBox Node Exporter written in Go for Spectrum Virtualize.
+- 🔭 I’m currently working on: A modern Go-based management platform for IBM Storage Virtualize IP Quorum services with web dashboard
 - 🌱 I’m currently learning: OpenShift and Go
-- 👯 I’m looking to collaborate on: Spectrum Virtualize Node Exporter
-- 🤔 I’m looking for help with: Spectrum Virtualize Node Exporter
-- 💬 Ask me about: anything IBM Spectrum x
+- 👯 I’m looking to collaborate on: 
+- 🤔 I’m looking for help with: 
+- 💬 Ask me about: anything IBM Virtualize x
 - 📫 How to reach me: Twitter or GitHub issue.
 
 
